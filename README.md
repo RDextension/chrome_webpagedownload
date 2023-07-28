@@ -1,4 +1,4 @@
-# chrome_webpagedownload
+# Google Chrome Web Page Download Extension
 Easy to use extension to download content from a list of webpages. 
 
 
